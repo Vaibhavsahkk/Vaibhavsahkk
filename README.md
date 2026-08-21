@@ -1,121 +1,112 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0077B6,100:00B4D8&height=240&section=header&text=VAIBHAV%20KUMAR&fontSize=52&animation=twinkling&fontColor=FFB703&desc=AI%20Systems%20%E2%80%A2%20Agentic%20Orchestration%20%E2%80%A2%20MLOps%20Infrastructure&descSize=18&descAlign=50&descAlignY=72" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0077B6,100:00B4D8&height=240&section=header&text=VAIBHAV%20KUMAR&fontSize=52&animation=twinkling&fontColor=FFB703&desc=AI%20Engineer%20%7C%20MLOps%20%7C%20Agentic%20Systems&descSize=20&descAlign=50&descAlignY=72" width="100%" />
 </h1>
+
 <div align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9E00&center=true&vCenter=true&width=700&lines=AI+%26+MLOps+Engineer;Agentic+AI+%26+RAG+Developer;Real-Time+Anomaly+Detection+%26+Security+ML;Integrated+M.Sc.+Computer+Science" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9E00&center=true&vCenter=true&width=700&lines=Building+Agentic+AI+Systems;RAG+Pipelines+%26+LLM+Orchestration;Real-Time+Anomaly+Detection;MLOps+Infrastructure+%26+FastAPI" alt="Typing SVG" />
 </div>
+
 <br />
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Open_for_AI%2FML_Engineering_Roles-10B981?style=for-the-badge&labelColor=0A192F" />
+  <img src="https://img.shields.io/badge/🟢 Open for-AI%2FML Engineering Roles-10B981?style=for-the-badge&labelColor=0A192F" />
   &nbsp;
-  <a href="https://github.com/Vaibhavsahkk?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vaibhavsahkk?label=Followers&style=for-the-badge&color=FFB703&logo=github&logoColor=0A192F" />
-  </a>
+  <img src="https://img.shields.io/github/followers/Vaibhavsahkk?label=Followers&style=for-the-badge&color=FFB703&logo=github&logoColor=0A192F" />
   &nbsp;
-  <a href="https://komarev.com/ghpvc/?username=Vaibhavsahkk&style=for-the-badge&color=00b4d8&label=Profile+Views">
-    <img src="https://komarev.com/ghpvc/?username=Vaibhavsahkk&style=for-the-badge&color=00b4d8&label=Profile+Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Vaibhavsahkk&style=for-the-badge&color=00b4d8&label=Profile+Views" />
 </div>
+
 <br />
----
-## ⚡ System Architecture & Engineering Focus
-```text
-[ Raw Data / Security Logs ] ──► [ Feature Engineering Pipeline ]
-                                            │
-[ Real-Time Monitoring ] ◄── [ FastAPI Anomaly API ] ◄── [ Scikit-Learn Model ]
-
-## 🚀 Featured Flagship Repositories
-
-### 🍯 [Agentic Honeypot for Scam Detection Intelligence Extraction](https://github.com/Vaibhavsahkk/Agentic-Honey-Pot-for-Scam-Detection-Intelligence-Extraction)
-> *Autonomous agentic honeypot framework to deceive scammers, capture threat vectors, and extract real-time intelligence.*
-- ⚡ Interactive LLM agent engagement pipeline.
-- 🔐 Automated scam tactic & indicator extraction.
-- **Stack:** `Python` • `Agentic AI` • `LLM` • `Security ML`
 
 ---
 
-### 🌐 [NexusMap Network Intelligence](https://github.com/Vaibhavsahkk/nexusmap-network-intelligence)
-> *Network topology analysis and intelligence mapping for monitoring node connectivity and security chokepoints.*
-- 📊 Graph-based network dependency mapping.
-- 🚀 Graph analytics and topology visualization.
-- **Stack:** `Python` • `Graph Analytics` • `FastAPI` • `Security`
+## 👋 About Me
+
+I'm an AI/ML engineer focused on building things that actually work in production — not just notebooks. My work spans agentic systems, RAG pipelines, anomaly detection, and network intelligence. Currently finishing my Integrated M.Sc. in Computer Science and actively looking for engineering roles where I can build real systems.
+
+- 🔭 Currently working on: **Agentic AI & real-time ML pipelines**
+- 🌱 Learning: **LLM evaluation, multi-agent orchestration**
+- 💬 Ask me about: **FastAPI, LangChain, Scikit-Learn, Python**
+- 📫 Reach me: **vaibhav.sah01@gmail.com**
 
 ---
 
-### 📈 [Pulse AI Trend Analysis](https://github.com/Vaibhavsahkk/pulse-ai-trend-analysis)
-> *Real-time sentiment and AI trend analysis engine monitoring streaming data and market signals.*
-- 🔍 High-throughput NLP signal processing pipeline.
-- ⚡ Dynamic trend modeling & forecasting engine.
-- **Stack:** `Python` • `NLP` • `PyTorch` • `Data Streaming`
-
----
-
-### 🕵️ [Smart Crime Analytics](https://github.com/Vaibhavsahkk/Smart-Crime-Analytics)
-> *Predictive spatial-temporal crime analytics engine leveraging ML algorithms to model risk patterns.*
-- 🎯 Spatial-temporal pattern modeling & risk scoring.
-- 📈 Predictive ML data analysis pipeline.
-- **Stack:** `Python` • `Machine Learning` • `Scikit-Learn`
-
----
-
-### 🤖 [RAG Q&A Chatbot](https://github.com/Vaibhavsahkk/RAG-Q-A-chatbot-)
-> *Retrieval-Augmented Generation chatbot querying custom knowledge bases with high accuracy.*
-- 🔍 Semantic vector search and context-aware LLM answers.
-- ⚡ Modular document indexing pipeline.
-- **Stack:** `Python` • `LangChain` • `Vector Index` • `LLMs`
-
----
-
-### ⚡ [Backup Anomaly Detection](https://github.com/Vaibhavsahkk/backup-anomaly-detection)
-> *Real-time anomaly detection API for backup metadata using Scikit-Learn and FastAPI.*
-- 📊 Outlier identification and performance monitoring.
-- 🚀 Async FastAPI microservice endpoint.
-- **Stack:** `Python` • `Scikit-Learn` • `FastAPI` • `MLOps`
-
----
-
-## 📈 Activity & Contribution Statistics
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavsahkk&show_icons=true&title_color=FFB703&icon_color=FF7B00&text_color=E2E8F0&bg_color=0A192F&border_color=0077B6&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsahkk&theme=dark&background=0A192F&border=0077B6&stroke=FFB703&ring=00B4D8&fire=FF7B00&currStreakNum=FFB703&sideNums=E2E8F0&sideTitle=FFB703" width="48%" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,docker,git,github,linux,postgres,vscode,js,cpp&perline=6" />
+</div>
+
+<br />
+
+**Languages:** Python · C++ · JavaScript · SQL  
+**AI/ML:** LangChain · LlamaIndex · Scikit-Learn · PyTorch · TF-IDF  
+**Infrastructure:** FastAPI · Docker · GitHub Actions · Linux · REST APIs  
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+### 🍯 [Agentic Honeypot — Scam Detection & Intelligence Extraction](https://github.com/Vaibhavsahkk/Agentic-Honey-Pot-for-Scam-Detection-Intelligence-Extraction)
+Built an autonomous honeypot that engages scammers using an LLM agent and extracts their tactics, IOCs, and behavioral patterns in real time. The goal was to make threat intelligence collection hands-free.  
+`Python` · `Agentic AI` · `LLM` · `Security ML`
+
+---
+
+### 🌐 [NexusMap — Network Intelligence & Topology Mapping](https://github.com/Vaibhavsahkk/nexusmap-network-intelligence)
+A graph-based tool that maps network dependencies, identifies chokepoints, and visualizes infrastructure relationships. Useful for security audits and infrastructure monitoring.  
+`Python` · `Graph Analytics` · `FastAPI` · `Network Security`
+
+---
+
+### 📈 [Pulse AI — Trend & Sentiment Analysis Engine](https://github.com/Vaibhavsahkk/pulse-ai-trend-analysis)
+Real-time NLP pipeline that monitors streaming data sources, tracks sentiment shifts, and surfaces emerging trends. Built for speed and modularity.  
+`Python` · `NLP` · `PyTorch` · `Streaming Data`
+
+---
+
+### 🕵️ [Smart Crime Analytics — Predictive Risk Modeling](https://github.com/Vaibhavsahkk/Smart-Crime-Analytics)
+Spatial-temporal ML pipeline that models crime risk patterns across geography and time. Used ensemble methods for robust pattern detection.  
+`Python` · `Scikit-Learn` · `Geospatial ML` · `Data Analysis`
+
+---
+
+### 🤖 [RAG Q&A Chatbot — Custom Knowledge Base](https://github.com/Vaibhavsahkk/RAG-Q-A-chatbot-)
+Production-style RAG system that indexes documents, runs semantic vector search, and generates context-grounded answers using an LLM. Clean, modular codebase.  
+`Python` · `LangChain` · `Vector Search` · `LLMs`
+
+---
+
+### ⚡ [Backup Anomaly Detection — FastAPI ML Microservice](https://github.com/Vaibhavsahkk/backup-anomaly-detection)
+Async FastAPI service that flags anomalies in backup metadata using Isolation Forest. Designed to plug into existing monitoring stacks.  
+`Python` · `Scikit-Learn` · `FastAPI` · `MLOps`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavsahkk&show_icons=true&title_color=FFB703&icon_color=FF7B00&text_color=E2E8F0&bg_color=0A192F&border_color=0077B6" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsahkk&theme=dark&background=0A192F&border=0077B6&stroke=FFB703&ring=00B4D8&fire=FF7B00&currStreakNum=FFB703" width="47%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsahkk&layout=compact&title_color=FFB703&text_color=E2E8F0&bg_color=0A192F&border_color=0077B6&hide_border=false" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsahkk&layout=compact&title_color=FFB703&text_color=E2E8F0&bg_color=0A192F&border_color=0077B6" width="50%" />
 </div>
-
-<br />
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhavsahkk/Vaibhavsahkk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhavsahkk/Vaibhavsahkk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaibhavsahkk/Vaibhavsahkk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br />
-
----
-
-## 📬 Connect With Me
+## 📬 Let's Connect
 
 <div align="center">
   <a href="mailto:vaibhav.sah01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vaibhav.sah01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-vaibhav.sah01-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/vaibhav-kumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/vaibhav-kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/Vaibhavsahkk">
