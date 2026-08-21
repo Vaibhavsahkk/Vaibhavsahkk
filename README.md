@@ -151,24 +151,21 @@ AI/ML Engineer focused on agentic systems, anomaly detection, and retrieval augm
 ## Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhavsahkk&show_icons=true&title_color=FFB703&icon_color=FF7B00&text_color=E2E8F0&bg_color=0A192F&border_color=0077B6&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsahkk&theme=dark&background=0A192F&border=0077B6&stroke=FFB703&ring=00B4D8&fire=FF7B00&currStreakNum=FFB703&sideNums=E2E8F0&sideTitle=FFB703" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavsahkk&theme=dark&background=0A192F&border=0077B6&stroke=FFB703&ring=00B4D8&fire=FF7B00&currStreakNum=FFB703&sideNums=E2E8F0&sideTitle=FFB703" width="55%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavsahkk&layout=compact&title_color=FFB703&text_color=E2E8F0&bg_color=0A192F&border_color=0077B6&hide_border=false" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaibhavsahkk&theme=github_dark" width="90%" />
 </div>
 
 <br />
 
----
-
-## Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavsahkk&bg_color=0A192F&color=E2E8F0&line=00B4D8&point=FFB703&area=true&area_color=0077B6&hide_border=false&custom_title=Contribution%20Activity" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhavsahkk&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaibhavsahkk&theme=github_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaibhavsahkk&theme=github_dark" width="32%" />
 </div>
 
 <br />
