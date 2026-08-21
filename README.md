@@ -26,7 +26,7 @@
 
 ## About
 
-AI/ML Engineer focused on agentic systems, anomaly detection, and retrieval-augmented generation. I work across the full pipeline — from data preprocessing and model training to API deployment and production monitoring. Currently pursuing Masters in Computer Science.
+AI/ML Engineer focused on agentic systems, anomaly detection, and retrieval augmented generation. I work across the full pipeline, from data preprocessing and model training to API deployment and production monitoring. Currently pursuing Masters in Computer Science.
 
 ---
 
@@ -78,21 +78,21 @@ AI/ML Engineer focused on agentic systems, anomaly detection, and retrieval-augm
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Agentic Honeypot — Scam Detection & Intelligence</h3>
-      <p><i>AI-powered scam detection system that engages scammers using adaptive personas and extracts actionable intelligence (UPI IDs, phone numbers, bank accounts).</i></p>
+      <h3>Agentic Honeypot for Scam Detection & Intelligence</h3>
+      <p><i>AI powered scam detection system that engages scammers using adaptive personas and extracts actionable intelligence (UPI IDs, phone numbers, bank accounts).</i></p>
       <ul>
-        <li>Rule-based + LLM-powered scam classification with multi-turn conversation memory</li>
-        <li>AI-generated voice detection using Librosa audio analysis</li>
+        <li>Rule based + LLM powered scam classification with multi turn conversation memory</li>
+        <li>AI generated voice detection using Librosa audio analysis</li>
       </ul>
       <p><b>Stack:</b> FastAPI · Groq (Llama 3 70B) · Librosa · Vercel</p>
       <p><a href="https://github.com/Vaibhavsahkk/Agentic-Honey-Pot-for-Scam-Detection-Intelligence-Extraction">View Repository →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>NexusMap — Network Intelligence Platform</h3>
-      <p><i>Executive intelligence platform for visual graph traversal and warm-path discovery across relationship networks.</i></p>
+      <h3>NexusMap Network Intelligence Platform</h3>
+      <p><i>Executive intelligence platform for visual graph traversal and warm path discovery across relationship networks.</i></p>
       <ul>
-        <li>4-tier ranked multi-hop search (up to 3 degrees of separation)</li>
-        <li>Bounded shortest-path pathfinder (up to 5 hops) with interactive WebGL canvas</li>
+        <li>4 tier ranked multi hop search (up to 3 degrees of separation)</li>
+        <li>Bounded shortest path pathfinder (up to 5 hops) with interactive WebGL canvas</li>
       </ul>
       <p><b>Stack:</b> Next.js 15 · React 19 · Neo4j (CognoDB) · WebGL</p>
       <p><a href="https://github.com/Vaibhavsahkk/nexusmap-network-intelligence">View Repository →</a></p>
@@ -100,18 +100,18 @@ AI/ML Engineer focused on agentic systems, anomaly detection, and retrieval-augm
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Pulse AI — Agentic Trend Analysis</h3>
-      <p><i>Multi-agent pipeline analyzing app reviews to generate topic-wise daily trend reports over a 31-day sliding window.</i></p>
+      <h3>Pulse AI Agentic Trend Analysis</h3>
+      <p><i>Multi agent pipeline analyzing app reviews to generate topic wise daily trend reports over a 31 day sliding window.</i></p>
       <ul>
-        <li>3-Agent architecture: keyword extraction, semantic matching, LLM adjudication</li>
+        <li>3 Agent architecture: keyword extraction, semantic matching, LLM adjudication</li>
         <li>Topic Memory evolution with automated daily batching</li>
       </ul>
-      <p><b>Stack:</b> Python · Gemini API · Pandas · Multi-Agent System</p>
+      <p><b>Stack:</b> Python · Gemini API · Pandas · Multi Agent System</p>
       <p><a href="https://github.com/Vaibhavsahkk/pulse-ai-trend-analysis">View Repository →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Smart Crime Analytics</h3>
-      <p><i>ML/DL analysis of crime data to predict patterns and identify socio-economic factors using ensemble and deep learning models.</i></p>
+      <p><i>ML/DL analysis of crime data to predict patterns and identify socio economic factors using ensemble and deep learning models.</i></p>
       <ul>
         <li>Random Forest, XGBoost, SVM, and Deep Learning model comparison</li>
         <li>Regional crime distribution analysis and predictive accuracy benchmarking</li>
@@ -123,10 +123,10 @@ AI/ML Engineer focused on agentic systems, anomaly detection, and retrieval-augm
   <tr>
     <td width="50%" valign="top">
       <h3>RAG Q&A Chatbot</h3>
-      <p><i>Retrieval-Augmented Generation system for question answering, built on custom CSV knowledge bases with semantic retrieval.</i></p>
+      <p><i>Retrieval Augmented Generation system for question answering, built on custom CSV knowledge bases with semantic retrieval.</i></p>
       <ul>
-        <li>Document ingestion and vector-based semantic search</li>
-        <li>Context-aware LLM responses grounded in retrieved documents</li>
+        <li>Document ingestion and vector based semantic search</li>
+        <li>Context aware LLM responses grounded in retrieved documents</li>
       </ul>
       <p><b>Stack:</b> Python · RAG Pipeline · Vector Search · LLM</p>
       <p><a href="https://github.com/Vaibhavsahkk/RAG-Q-A-chatbot-">View Repository →</a></p>
@@ -135,7 +135,7 @@ AI/ML Engineer focused on agentic systems, anomaly detection, and retrieval-augm
       <h3>Backup Anomaly Detection API</h3>
       <p><i>REST API to detect anomalous backup events (mass deletions, ransomware patterns) from backup metadata using unsupervised ML.</i></p>
       <ul>
-        <li>IsolationForest-based anomaly scoring with time-series feature engineering</li>
+        <li>IsolationForest based anomaly scoring with time series feature engineering</li>
         <li>Synthetic data generation and explainable prediction outputs</li>
       </ul>
       <p><b>Stack:</b> FastAPI · Scikit-Learn (IsolationForest) · Pandas</p>
@@ -168,11 +168,7 @@ AI/ML Engineer focused on agentic systems, anomaly detection, and retrieval-augm
 ## Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhavsahkk/Vaibhavsahkk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhavsahkk/Vaibhavsahkk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vaibhavsahkk/Vaibhavsahkk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaibhavsahkk&bg_color=0A192F&color=E2E8F0&line=00B4D8&point=FFB703&area=true&area_color=0077B6&hide_border=false&custom_title=Contribution%20Activity" width="95%" />
 </div>
 
 <br />
