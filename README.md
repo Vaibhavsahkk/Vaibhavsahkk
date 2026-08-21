@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0077B6,100:00B4D8&height=240&section=header&text=VAIBHAV%20KUMAR&fontSize=52&animation=twinkling&fontColor=FFB703&desc=AI%20%2F%20ML%20Engineer&descSize=18&descAlign=50&descAlignY=72" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0077B6,100:00B4D8&height=240&section=header&text=VAIBHAV%20KUMAR&fontSize=52&animation=twinkling&fontColor=FFB703&desc=AI%20%2F%20ML%20Developer&descSize=18&descAlign=50&descAlignY=72" width="100%" />
 </h1>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9E00&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer;Agentic+AI+%26+RAG+Systems;Anomaly+Detection+%26+Security+ML;Masters+in+Computer+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF9E00&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Developer;Agentic+AI+%26+RAG+Systems;Anomaly+Detection+%26+Security+ML;Masters+in+Computer+Science" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 
 ## About
 
-AI/ML Engineer focused on agentic systems, anomaly detection, and retrieval augmented generation. I work across the full pipeline, from data preprocessing and model training to API deployment and production monitoring. Currently pursuing Masters in Computer Science.
+AI/ML Developer focused on agentic systems, anomaly detection, and retrieval augmented generation. I work across the full pipeline, from data preprocessing and model training to API deployment and production monitoring. Currently pursuing Masters in Computer Science.
 
 ---
 
@@ -166,6 +166,20 @@ AI/ML Engineer focused on agentic systems, anomaly detection, and retrieval augm
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaibhavsahkk&theme=github_dark" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaibhavsahkk&theme=github_dark" width="32%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaibhavsahkk&theme=github_dark" width="32%" />
+</div>
+
+<br />
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaibhavsahkk/Vaibhavsahkk/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaibhavsahkk/Vaibhavsahkk/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Vaibhavsahkk/Vaibhavsahkk/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 <br />
