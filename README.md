@@ -28,7 +28,8 @@
 
 ## ⚡ System Architecture & Engineering Focus
 
-```ascii
+```text
 [ Raw Data / Security Logs ] ──► [ Feature Engineering Pipeline ]
                                             │
 [ Real-Time Monitoring ] ◄── [ FastAPI Anomaly API ] ◄── [ Scikit-Learn Model ]
+++
