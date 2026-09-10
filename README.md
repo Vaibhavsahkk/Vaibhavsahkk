@@ -26,7 +26,9 @@
 
 ## About
 
-AI/ML Developer focused on agentic systems, anomaly detection, and retrieval augmented generation. I work across the full pipeline, from data preprocessing and model training to API deployment and production monitoring. Currently pursuing Masters in Computer Science.
+M.Sc. Computer Science Graduate (2026) · **Available for Immediate Full-Time Joining Across India or Remote**. 
+
+AI/ML Engineer specializing in production Machine Learning pipelines, Mixture-of-Experts (MoE) deep learning architectures, and agentic RAG systems. Dual Oracle Cloud Infrastructure (OCI) Certified in **Data Science** and **Generative AI**. Experienced across the complete lifecycle: large-scale dataset benchmarking, leak-free feature engineering, sub-15ms REST API deployment (FastAPI), and production monitoring.
 
 ---
 
